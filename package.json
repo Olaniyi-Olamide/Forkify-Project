@@ -13,6 +13,8 @@
     "sass": "^1.93.1"
   },
   "dependencies": {
-    "@parcel/source-map": "^2.1.1"
+    "@parcel/source-map": "^2.1.1",
+    "core-js": "^3.45.1",
+    "regenerator-runtime": "^0.14.1"
   }
 }
