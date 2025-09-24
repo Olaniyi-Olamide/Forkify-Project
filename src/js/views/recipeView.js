@@ -1,5 +1,5 @@
 import Fraction from '../vendor/fractional.js';
-console.log(Fraction);
+// console.log(Fraction);
 class RecipeView {
   #parentElement = document.querySelector('.recipe');
   #data;
